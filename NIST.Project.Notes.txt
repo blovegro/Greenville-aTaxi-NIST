@@ -1,0 +1,3 @@
+Fleet of manually-driven Club Car vehicles which support the BestMile protocol for remote fleet management.
+
+
